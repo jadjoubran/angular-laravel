@@ -1,3 +1,3 @@
 # Angular & Laravel
 
-Home of the upcoming Laravel package for working with Laravel 5
+Home of the upcoming Angular package for working with Laravel 5
